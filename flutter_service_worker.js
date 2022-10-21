@@ -3,7 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+  "assets/AssetManifest.json": "1d2a4628ecee80faf7e6113b29433a17",
+"assets/assets/icons/mmmclogo.png": "6777564e82d87d47e17193d037176d93",
+"assets/assets/images/college%2520view.jpg": "c3a2261ed8373672391135742dda4afa",
+"assets/assets/images/student.png": "ff3ab08e483c531c6cc99865841b42fb",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "8f2b7ab052dfcf4ace9901a3769cab3f",
@@ -14,9 +17,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "6f2cebb0da392b48f34b400527f5284c",
-"/": "6f2cebb0da392b48f34b400527f5284c",
-"main.dart.js": "5920a7ecbdce52ca704df6c2682487bb",
+"index.html": "cc53d232a05dce9981646d97af998ad8",
+"/": "cc53d232a05dce9981646d97af998ad8",
+"main.dart.js": "f5258fd639e0eb821ddbf82c4bf07bf6",
 "manifest.json": "7744cd5ed7b475e86e3f13fcb991a0f5",
 "version.json": "d80bcace88db823d31d15f1c18f47db9"
 };
